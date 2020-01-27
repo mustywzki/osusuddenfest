@@ -1,0 +1,11 @@
+{
+	"host": "irc.ppy.sh",
+	"port": 6667,
+	"username": "Musty",
+	"password": "d99a7c",
+	"apiKey": "02347257cb60c0806498c40d32580099efc93e54",
+	"userId": 251683,
+	"limiterTimespan": 6000,
+	"limiterPrivate": 4,
+	"limiterPublic": 3
+}
